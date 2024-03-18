@@ -1,0 +1,6 @@
+Hello, world!
+This is line 2.
+The answer is 42.
+This is line 4.
+Appending more text.
+Last line.
